@@ -1,4 +1,4 @@
-# ewp-wp2-use-cases
+# ewp-mobility-use-cases
 
 This file describes the Use-Cases as agreed upon by the consortium at the Technical Workshop in Brussels, 21 & 22 March 2016
 
